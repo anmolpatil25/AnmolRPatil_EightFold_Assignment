@@ -1,0 +1,11 @@
+Call notes - 2026-06-15
+
+Spoke with Marcus for 20 min, seems sharp. Says he's been doing backend/infra
+work, mostly Go and gRPC, some Kubernetes operator stuff. Mentioned he's been
+at his current shop about 4 years.
+
+Email: marcus.lee@workmail.com
+Phone: 415.555.0133
+Skills: Go, gRPC, Kubernetes, Terraform
+Years experience: roughly 9
+Current company: Hooli

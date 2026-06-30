@@ -1,0 +1,31 @@
+[
+  {
+    "candidateName": "Asha Verma",
+    "emailAddresses": ["asha.verma@gmail.com", "averma@initech.com"],
+    "phoneNumbers": ["5125550192"],
+    "currentLocation": "Austin, TX",
+    "yearsOfExperience": 7,
+    "skillSet": ["Python", "Kubernetes", "PostgreSQL", "AWS"],
+    "workHistory": [
+      {"company": "Initech", "title": "Senior Backend Engineer", "start": "2021-03", "end": null, "summary": "Leads the payments platform team."},
+      {"company": "Globex", "title": "Backend Engineer", "start": "2018-06", "end": "2021-02"}
+    ],
+    "education": [
+      {"institution": "UT Austin", "degree": "B.S.", "field": "Computer Science", "endYear": 2018}
+    ]
+  },
+  {
+    "candidateName": "Marcus Lee",
+    "emailAddresses": [],
+    "phoneNumbers": ["415-555-0133"],
+    "currentLocation": "San Francisco, CA",
+    "yearsOfExperience": "garbage-not-a-number",
+    "skillSet": ["Go", "gRPC", "k8s"],
+    "workHistory": []
+  },
+  {
+    "candidateName": null,
+    "emailAddresses": "priya.k@outlook.com",
+    "currentLocation": null
+  }
+]

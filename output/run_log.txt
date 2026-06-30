@@ -1,0 +1,6 @@
+[info] wrote 5 candidate(s) to output/default_schema_output.json
+[warn] candidate cand_824153d022 failed validation: ["required field 'primary_email' is null"]
+[warn] candidate cand_d37d707c9f failed validation: ["required field 'full_name' is null"]
+[warn] candidate cand_0e8a45a84f failed validation: ["required field 'full_name' is null"]
+[info] wrote 2 candidate(s) to output/custom_config_output.json
+[info] 3 candidate(s) rejected/flagged

@@ -1,0 +1,10 @@
+{
+  "login": "ashav",
+  "name": "Asha Verma",
+  "bio": "Backend engineer. Payments, distributed systems, occasional Rust.",
+  "html_url": "https://github.com/ashav",
+  "blog": "https://ashav.dev",
+  "email": null,
+  "location": "Austin, Texas, United States",
+  "_languages": ["Python", "Go", "Rust", "Shell"]
+}

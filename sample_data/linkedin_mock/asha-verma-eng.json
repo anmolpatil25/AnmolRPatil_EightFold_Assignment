@@ -1,0 +1,14 @@
+{
+  "full_name": "Asha Verma",
+  "headline": "Senior Backend Engineer at Initech",
+  "location": "Austin, Texas, United States",
+  "skills": ["Python", "AWS", "System Design", "Mentoring"],
+  "experience": [
+    {"company": "Initech", "title": "Senior Backend Engineer", "start": "2021-03", "end": null,
+     "summary": "Payments platform."},
+    {"company": "Globex", "title": "Backend Engineer", "start": "2018-06", "end": "2021-02"}
+  ],
+  "education": [
+    {"institution": "UT Austin", "degree": "B.S.", "field": "Computer Science", "end_year": 2018}
+  ]
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cand_105aabcbe0",
+    "full_name": "Asha Verma",
+    "full_name_confidence": 0.95,
+    "primary_email": "asha.verma@gmail.com",
+    "primary_email_confidence": 0.99,
+    "phone": "+15125550192",
+    "phone_confidence": 0.99,
+    "skills": [
+      "python",
+      "aws",
+      "kubernetes",
+      "postgresql",
+      "go",
+      "rust",
+      "shell",
+      "mentoring",
+      "system design"
+    ],
+    "skills_confidence": 0.99,
+    "current_title": "Senior Backend Engineer",
+    "current_title_confidence": 0.99,
+    "country": "US",
+    "country_confidence": 0.9,
+    "overall_confidence": 0.965,
+    "candidate_id": "cand_105aabcbe0"
+  },
+  {
+    "id": "cand_c6c0f72e8f",
+    "full_name": "Jordan Smith",
+    "full_name_confidence": 0.95,
+    "primary_email": "jordan.smith@proton.me",
+    "primary_email_confidence": 0.99,
+    "phone": "+447700900123",
+    "phone_confidence": 0.99,
+    "skills": [
+      "graphql",
+      "node.js",
+      "postgresql",
+      "react",
+      "typescript"
+    ],
+    "skills_confidence": 0.6,
+    "current_title": null,
+    "current_title_confidence": 0.0,
+    "country": null,
+    "country_confidence": 0.0,
+    "overall_confidence": 0.888,
+    "candidate_id": "cand_c6c0f72e8f"
+  }
+]

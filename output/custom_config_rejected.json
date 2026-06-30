@@ -1,0 +1,80 @@
+[
+  {
+    "candidate_id": "cand_824153d022",
+    "problems": [
+      "required field 'primary_email' is null"
+    ],
+    "record": {
+      "id": "cand_824153d022",
+      "full_name": "Marcus Lee",
+      "full_name_confidence": 0.95,
+      "primary_email": null,
+      "primary_email_confidence": 0.0,
+      "phone": "+14155550133",
+      "phone_confidence": 0.99,
+      "skills": [
+        "go",
+        "grpc",
+        "kubernetes"
+      ],
+      "skills_confidence": 0.9,
+      "current_title": "Staff Engineer",
+      "current_title_confidence": 0.95,
+      "country": "US",
+      "country_confidence": 0.9,
+      "overall_confidence": 0.941,
+      "candidate_id": "cand_824153d022"
+    }
+  },
+  {
+    "candidate_id": "cand_d37d707c9f",
+    "problems": [
+      "required field 'full_name' is null"
+    ],
+    "record": {
+      "id": "cand_d37d707c9f",
+      "full_name": null,
+      "full_name_confidence": 0.0,
+      "primary_email": "priya.k@outlook.com",
+      "primary_email_confidence": 0.99,
+      "phone": null,
+      "phone_confidence": 0.0,
+      "skills": null,
+      "skills_confidence": 0.0,
+      "current_title": "Data Scientist",
+      "current_title_confidence": 0.95,
+      "country": null,
+      "country_confidence": 0.0,
+      "overall_confidence": 0.97,
+      "candidate_id": "cand_d37d707c9f"
+    }
+  },
+  {
+    "candidate_id": "cand_0e8a45a84f",
+    "problems": [
+      "required field 'full_name' is null"
+    ],
+    "record": {
+      "id": "cand_0e8a45a84f",
+      "full_name": null,
+      "full_name_confidence": 0.0,
+      "primary_email": "marcus.lee@workmail.com",
+      "primary_email_confidence": 0.5,
+      "phone": "+14155550133",
+      "phone_confidence": 0.5,
+      "skills": [
+        "go",
+        "grpc",
+        "kubernetes",
+        "terraform"
+      ],
+      "skills_confidence": 0.5,
+      "current_title": null,
+      "current_title_confidence": 0.5,
+      "country": null,
+      "country_confidence": 0.0,
+      "overall_confidence": 0.5,
+      "candidate_id": "cand_0e8a45a84f"
+    }
+  }
+]

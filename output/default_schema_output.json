@@ -1,0 +1,584 @@
+[
+  {
+    "candidate_id": "cand_105aabcbe0",
+    "full_name": "Asha Verma",
+    "emails": [
+      "asha.verma@gmail.com",
+      "averma@initech.com"
+    ],
+    "phones": [
+      "+15125550192"
+    ],
+    "location": {
+      "city": "Austin",
+      "region": "TX",
+      "country": "US"
+    },
+    "links": [
+      {
+        "type": "github",
+        "url": "https://github.com/ashav"
+      },
+      {
+        "type": "portfolio",
+        "url": "https://ashav.dev"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://linkedin.com/in/asha-verma-eng"
+      }
+    ],
+    "headline": "Senior Backend Engineer",
+    "years_experience": 7.0,
+    "skills": [
+      {
+        "name": "python",
+        "confidence": 0.99,
+        "source": [
+          "ats_json",
+          "github_api",
+          "linkedin_profile"
+        ]
+      },
+      {
+        "name": "aws",
+        "confidence": 0.98,
+        "source": [
+          "ats_json",
+          "linkedin_profile"
+        ]
+      },
+      {
+        "name": "kubernetes",
+        "confidence": 0.9,
+        "source": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "postgresql",
+        "confidence": 0.9,
+        "source": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "go",
+        "confidence": 0.8,
+        "source": [
+          "github_api"
+        ]
+      },
+      {
+        "name": "rust",
+        "confidence": 0.8,
+        "source": [
+          "github_api"
+        ]
+      },
+      {
+        "name": "shell",
+        "confidence": 0.8,
+        "source": [
+          "github_api"
+        ]
+      },
+      {
+        "name": "mentoring",
+        "confidence": 0.65,
+        "source": [
+          "linkedin_profile"
+        ]
+      },
+      {
+        "name": "system design",
+        "confidence": 0.65,
+        "source": [
+          "linkedin_profile"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Initech",
+        "title": "Senior Backend Engineer",
+        "start": "2021-03",
+        "end": null,
+        "summary": "Leads the payments platform team."
+      },
+      {
+        "company": "Globex",
+        "title": "Backend Engineer",
+        "start": "2018-06",
+        "end": "2021-02",
+        "summary": null
+      },
+      {
+        "company": "Initech",
+        "title": "Senior Backend Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [
+      {
+        "institution": "UT Austin",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": 2018
+      }
+    ],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "recruiter_csv",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_csv",
+        "method": "direct"
+      },
+      {
+        "field": "full_name",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "location",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "years_experience",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "education",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "full_name",
+        "source": "github_api",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "github_api",
+        "method": "direct"
+      },
+      {
+        "field": "links",
+        "source": "github_api",
+        "method": "direct"
+      },
+      {
+        "field": "location",
+        "source": "github_api",
+        "method": "direct"
+      },
+      {
+        "field": "skills",
+        "source": "github_api",
+        "method": "derived"
+      },
+      {
+        "field": "full_name",
+        "source": "linkedin_profile",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "linkedin_profile",
+        "method": "direct"
+      },
+      {
+        "field": "location",
+        "source": "linkedin_profile",
+        "method": "direct"
+      },
+      {
+        "field": "links",
+        "source": "linkedin_profile",
+        "method": "direct"
+      },
+      {
+        "field": "skills",
+        "source": "linkedin_profile",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "linkedin_profile",
+        "method": "direct"
+      },
+      {
+        "field": "education",
+        "source": "linkedin_profile",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.965
+  },
+  {
+    "candidate_id": "cand_824153d022",
+    "full_name": "Marcus Lee",
+    "emails": [],
+    "phones": [
+      "+14155550133"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "region": "CA",
+      "country": "US"
+    },
+    "links": [],
+    "headline": "Staff Engineer",
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "go",
+        "confidence": 0.9,
+        "source": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "grpc",
+        "confidence": 0.9,
+        "source": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "kubernetes",
+        "confidence": 0.9,
+        "source": [
+          "ats_json"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": null,
+        "title": "Staff Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "recruiter_csv",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_csv",
+        "method": "direct"
+      },
+      {
+        "field": "full_name",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "location",
+        "source": "ats_json",
+        "method": "direct"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.941
+  },
+  {
+    "candidate_id": "cand_d37d707c9f",
+    "full_name": null,
+    "emails": [
+      "priya.k@outlook.com"
+    ],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": [],
+    "headline": "Data Scientist",
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Globex",
+        "title": "Data Scientist",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "emails",
+        "source": "recruiter_csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "recruiter_csv",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "ats_json",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.97
+  },
+  {
+    "candidate_id": "cand_c6c0f72e8f",
+    "full_name": "Jordan Smith",
+    "emails": [
+      "jordan.smith@proton.me"
+    ],
+    "phones": [
+      "+447700900123"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": [],
+    "headline": null,
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "graphql",
+        "confidence": 0.6,
+        "source": [
+          "resume_file"
+        ]
+      },
+      {
+        "name": "node.js",
+        "confidence": 0.6,
+        "source": [
+          "resume_file"
+        ]
+      },
+      {
+        "name": "postgresql",
+        "confidence": 0.6,
+        "source": [
+          "resume_file"
+        ]
+      },
+      {
+        "name": "react",
+        "confidence": 0.6,
+        "source": [
+          "resume_file"
+        ]
+      },
+      {
+        "name": "typescript",
+        "confidence": 0.6,
+        "source": [
+          "resume_file"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv",
+        "method": "direct"
+      },
+      {
+        "field": "full_name",
+        "source": "resume_file",
+        "method": "derived"
+      },
+      {
+        "field": "emails",
+        "source": "resume_file",
+        "method": "derived"
+      },
+      {
+        "field": "phones",
+        "source": "resume_file",
+        "method": "derived"
+      },
+      {
+        "field": "skills",
+        "source": "resume_file",
+        "method": "derived"
+      }
+    ],
+    "overall_confidence": 0.888
+  },
+  {
+    "candidate_id": "cand_0e8a45a84f",
+    "full_name": null,
+    "emails": [
+      "marcus.lee@workmail.com"
+    ],
+    "phones": [
+      "+14155550133"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": [],
+    "headline": null,
+    "years_experience": 9.0,
+    "skills": [
+      {
+        "name": "go",
+        "confidence": 0.5,
+        "source": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "grpc",
+        "confidence": 0.5,
+        "source": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "kubernetes",
+        "confidence": 0.5,
+        "source": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "terraform",
+        "confidence": 0.5,
+        "source": [
+          "recruiter_notes"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Hooli",
+        "title": null,
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "emails",
+        "source": "recruiter_notes",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills",
+        "source": "recruiter_notes",
+        "method": "direct"
+      },
+      {
+        "field": "years_experience",
+        "source": "recruiter_notes",
+        "method": "derived"
+      },
+      {
+        "field": "experience",
+        "source": "recruiter_notes",
+        "method": "derived"
+      }
+    ],
+    "overall_confidence": 0.5
+  }
+]
